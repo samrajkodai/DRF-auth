@@ -5,5 +5,5 @@ steps:
     login_url: http://127.0.0.1:8000/token/login
 
 
-    check in postman with token(CRUD Operations)
+    check in postman with token(CRUD Operations).
 
